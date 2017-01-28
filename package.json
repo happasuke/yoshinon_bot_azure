@@ -1,0 +1,19 @@
+{
+  "name": "yoshinon_azure",
+  "version": "1.0.0",
+  "description": "use for bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/happasuke/yoshinon_bot_azure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.4",
+    "restify": "^4.3.0"
+  }
+}
